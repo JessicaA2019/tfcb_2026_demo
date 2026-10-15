@@ -10,11 +10,7 @@
 | Monarch® Spin RNA Isolation Kit (Mini)| NEB | T2110L | N/A | N/A |
 | EZ-Link Biotin-HPDP   |   Pierce   | A35390 | 100mg/mL | 1mg/mL |
 | Biotinylation Buffer (100 mM Tris pH 7.4, 10 mM EDTA) | N/A | N/A | 10x | 1x |
-| Phenol/Chloroform pH 6.7| | | | |
-| NaCl| | | 5M | 5M |
-| Isopropanol | | | 100%| 100% |
-| EtOH| | | 100% | 75% |
-| RNase-free water| | | N/A | N/A |
+| Phenol/Chloroform pH 6.7| Fisher | 17908 | N/A | N/A|
 | Dynabeads MyOne Strepavidin T1 Kit| Fisher | 65601 | N/A | N/A|
 	
 ## Procedures
@@ -84,5 +80,5 @@ I have not run this full experiment yet, but I have done day 1.
 ![10x magnification Neff, 250uM 4sU at 2 hours.](./img/250uM_2hr.svg)
 Picture of Acanthamoeba at 10x magnification in 250uM 4sU at 2 hours (taken by JLA).
 
-![10x magnification Neff, 1000uM 4sU at 2 hours.](./img/250uM_2hr.svg)
+![10x magnification Neff, 1000uM 4sU at 2 hours.](./img/1000uM_2hr.svg)
 Picture of Acanthamoeba at 10x magnification in 1000uM 4sU at 2 hours (taken by JLA).  
