@@ -77,8 +77,8 @@ Separate labelled RNAs with Dynabeads:
 ## Results
 I have not run this full experiment yet, but I have done day 1. 
 
-![10x magnification Neff, 250uM 4sU at 2 hours.](./img/250uM_2hr.svg)
+![10x magnification Neff, 250uM 4sU at 2 hours.](./img/250uM_2hr.tif)
 Picture of Acanthamoeba at 10x magnification in 250uM 4sU at 2 hours (taken by JLA).
 
-![10x magnification Neff, 1000uM 4sU at 2 hours.](./img/1000uM_2hr.svg)
+![10x magnification Neff, 1000uM 4sU at 2 hours.](./img/1000uM_2hr.tif)
 Picture of Acanthamoeba at 10x magnification in 1000uM 4sU at 2 hours (taken by JLA).  
